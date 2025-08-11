@@ -2,7 +2,7 @@ import cv2
 from transparent_detector import TransparentObjectDetector
 
 # CHANGE THIS to your image path
-IMAGE_PATH = "/Users/manojkumawat/ipcv/Transparent-Object-Edge-Depth-Detection/test.png"  # <-- PUT YOUR IMAGE PATH HERE
+IMAGE_PATH = "/Users/manojkumawat/ipcv/Transparent-Object-Edge-Depth-Detection/sample_images/test.png"  # <-- PUT YOUR IMAGE PATH HERE
 
 # Create detector
 detector = TransparentObjectDetector()
